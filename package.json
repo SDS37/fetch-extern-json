@@ -1,7 +1,7 @@
 {
-  "name": "fetch-extern-json",
+  "name": "fetch-external-json",
   "version": "1.0.0",
-  "description": "Example how to fetch extern json data",
+  "description": "Example how to fetch external json data",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
